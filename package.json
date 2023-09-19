@@ -1,0 +1,26 @@
+{
+  "name": "js-bridge-rn",
+  "version": "0.0.1",
+  "description": "React Native 与 H5交互工具库",
+  "main": "index.d.ts",
+  "scripts": {},
+  "keywords": [
+    "rn-bridge",
+    "js-bridge"
+  ],
+  "author": {
+    "name": "Meng",
+    "email": "meng.liu1@bthome.com",
+    "description": "React Native 与 H5交互工具库",
+    "url": "https://github.com/azkbo/js-bridge-rn"
+  },
+  "homepage": "https://github.com/azkbo/js-bridge-rn",
+  "bugs": {
+    "url": "https://github.com/azkbo/js-bridge-rn/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azkbo/js-bridge-rn"
+  },
+  "license": "ISC"
+}
